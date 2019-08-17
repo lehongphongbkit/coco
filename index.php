@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <title>CoCo xinh đẹp</title>
+  <title>CÔ CÔ XINH ĐẸP</title>
   <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
   <script type="text/javascript" charset="utf-8">
     function hasClassName(inElement, inClassName)
